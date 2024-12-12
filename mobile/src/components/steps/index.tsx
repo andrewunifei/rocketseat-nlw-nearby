@@ -21,4 +21,4 @@ export function Steps() {
                 icon={IconTicket} />
         </View>
     )
-}
+}   
